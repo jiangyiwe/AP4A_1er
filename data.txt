@@ -1,0 +1,258 @@
+Date et heure :Fri Oct 08 19:59:15 2021
+
+Temperature :17 /Humidity :142/Pression:  335/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:18 2021
+
+Temperature :27 /Humidity :132/Pression:  391/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:20 2021
+
+Temperature :15 /Humidity :186/Pression:  466/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:24 2021
+
+Temperature :0 /Humidity :119/Pression:  367/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:25 2021
+
+Temperature :22 /Humidity :168/Pression:  385/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:26 2021
+
+Temperature :10 /Humidity :101/Pression:  310/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:28 2021
+
+Temperature :16 /Humidity :136/Pression:  399/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:30 2021
+
+Temperature :1 /Humidity :130/Pression:  474/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:33 2021
+
+Temperature :16 /Humidity :181/Pression:  252/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:35 2021
+
+Temperature :0 /Humidity :108/Pression:  457/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:36 2021
+
+Temperature :10 /Humidity :122/Pression:  418/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:40 2021
+
+Temperature :19 /Humidity :155/Pression:  383/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:41 2021
+
+Temperature :17 /Humidity :162/Pression:  347/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:42 2021
+
+Temperature :3 /Humidity :100/Pression:  260/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:45 2021
+
+Temperature :8 /Humidity :173/Pression:  466/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:48 2021
+
+Temperature :25 /Humidity :132/Pression:  415/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:50 2021
+
+Temperature :21 /Humidity :114/Pression:  241/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:53 2021
+
+Temperature :11 /Humidity :115/Pression:  459/Light:   Eteinte
+Date et heure :Fri Oct 08 19:59:56 2021
+
+Temperature :26 /Humidity :168/Pression:  474/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:00 2021
+
+Temperature :8 /Humidity :147/Pression:  429/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:03 2021
+
+Temperature :1 /Humidity :198/Pression:  246/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:05 2021
+
+Temperature :22 /Humidity :123/Pression:  364/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:07 2021
+
+Temperature :9 /Humidity :187/Pression:  389/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:08 2021
+
+Temperature :8 /Humidity :181/Pression:  497/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:10 2021
+
+Temperature :29 /Humidity :142/Pression:  439/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:13 2021
+
+Temperature :7 /Humidity :143/Pression:  343/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:17 2021
+
+Temperature :7 /Humidity :171/Pression:  366/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:20 2021
+
+Temperature :1 /Humidity :134/Pression:  482/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:22 2021
+
+Temperature :5 /Humidity :158/Pression:  463/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:24 2021
+
+Temperature :26 /Humidity :149/Pression:  440/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:25 2021
+
+Temperature :12 /Humidity :137/Pression:  379/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:28 2021
+
+Temperature :24 /Humidity :166/Pression:  374/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:32 2021
+
+Temperature :22 /Humidity :164/Pression:  237/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:33 2021
+
+Temperature :24 /Humidity :125/Pression:  292/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:35 2021
+
+Temperature :29 /Humidity :174/Pression:  345/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:37 2021
+
+Temperature :18 /Humidity :170/Pression:  454/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:38 2021
+
+Temperature :0 /Humidity :117/Pression:  483/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:40 2021
+
+Temperature :6 /Humidity :175/Pression:  347/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:41 2021
+
+Temperature :12 /Humidity :106/Pression:  265/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:43 2021
+
+Temperature :23 /Humidity :192/Pression:  289/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:45 2021
+
+Temperature :7 /Humidity :114/Pression:  257/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:46 2021
+
+Temperature :27 /Humidity :156/Pression:  294/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:50 2021
+
+Temperature :13 /Humidity :172/Pression:  478/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:52 2021
+
+Temperature :29 /Humidity :147/Pression:  349/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:53 2021
+
+Temperature :7 /Humidity :196/Pression:  286/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:54 2021
+
+Temperature :8 /Humidity :127/Pression:  460/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:57 2021
+
+Temperature :26 /Humidity :134/Pression:  283/Light:   Eteinte
+Date et heure :Fri Oct 08 20:00:59 2021
+
+Temperature :11 /Humidity :159/Pression:  252/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:01 2021
+
+Temperature :25 /Humidity :195/Pression:  487/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:03 2021
+
+Temperature :15 /Humidity :102/Pression:  424/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:06 2021
+
+Temperature :26 /Humidity :125/Pression:  459/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:09 2021
+
+Temperature :27 /Humidity :188/Pression:  414/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:12 2021
+
+Temperature :4 /Humidity :196/Pression:  324/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:16 2021
+
+Temperature :1 /Humidity :138/Pression:  480/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:18 2021
+
+Temperature :15 /Humidity :164/Pression:  499/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:20 2021
+
+Temperature :25 /Humidity :197/Pression:  441/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:21 2021
+
+Temperature :9 /Humidity :173/Pression:  240/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:24 2021
+
+Temperature :3 /Humidity :111/Pression:  476/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:26 2021
+
+Temperature :8 /Humidity :108/Pression:  440/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:30 2021
+
+Temperature :15 /Humidity :195/Pression:  361/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:33 2021
+
+Temperature :25 /Humidity :100/Pression:  478/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:35 2021
+
+Temperature :4 /Humidity :183/Pression:  364/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:39 2021
+
+Temperature :17 /Humidity :103/Pression:  305/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:41 2021
+
+Temperature :25 /Humidity :130/Pression:  359/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:42 2021
+
+Temperature :14 /Humidity :174/Pression:  324/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:43 2021
+
+Temperature :15 /Humidity :179/Pression:  467/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:47 2021
+
+Temperature :15 /Humidity :114/Pression:  401/Light:   Eteinte
+Date et heure :Fri Oct 08 20:01:48 2021
+
+Temperature :5 /Humidity :131/Pression:  478/Light:   Eteinte
+Date et heure :Fri Oct 08 20:02:10 2021
+
+Temperature :21 /Humidity :123/Pression:  384/Light:   Allume
+Date et heure :Fri Oct 08 20:02:12 2021
+
+Temperature :0 /Humidity :144/Pression:  68/Light:   Allume
+Date et heure :Fri Oct 08 20:02:14 2021
+
+Temperature :28 /Humidity :102/Pression:  387/Light:   Allume
+Date et heure :Fri Oct 08 20:02:15 2021
+
+Temperature :16 /Humidity :171/Pression:  25/Light:   Eteinte
+Date et heure :Fri Oct 08 20:02:19 2021
+
+Temperature :25 /Humidity :161/Pression:  493/Light:   Eteinte
+Date et heure :Fri Oct 08 20:02:22 2021
+
+Temperature :19 /Humidity :122/Pression:  432/Light:   Eteinte
+Date et heure :Fri Oct 08 20:02:25 2021
+
+Temperature :24 /Humidity :197/Pression:  160/Light:   Eteinte
+Date et heure :Fri Oct 08 20:02:29 2021
+
+Temperature :5 /Humidity :191/Pression:  438/Light:   Eteinte
+Date et heure :Sat Oct 09 00:23:28 2021
+
+Temperature :15 /Humidity :158/Pression:  321/Light:   Allume
+Date et heure :Sat Oct 09 00:23:29 2021
+
+Temperature :17 /Humidity :183/Pression:  318/Light:   Eteinte
+Date et heure :Sat Oct 09 00:23:32 2021
+
+Temperature :14 /Humidity :189/Pression:  110/Light:   Eteinte
+Date et heure :Sat Oct 09 00:23:35 2021
+
+Temperature :9 /Humidity :147/Pression:  424/Light:   Allume
+Date et heure :Sat Oct 09 00:26:15 2021
+
+Temperature :5 /Humidity :167/Pression:  64/Light:   Eteinte
+Date et heure :Sat Oct 09 00:26:18 2021
+
+Temperature :14 /Humidity :191/Pression:  494/Light:   Allume
+Date et heure :Sat Oct 09 00:26:20 2021
+
+Temperature :7 /Humidity :198/Pression:  399/Light:   Allume
+Date et heure :Sat Oct 09 00:26:22 2021
+
+Temperature :11 /Humidity :177/Pression:  227/Light:   Eteinte
+Date et heure :Sat Oct 09 00:26:24 2021
+
+Temperature :7 /Humidity :183/Pression:  327/Light:   Eteinte
+Date et heure :Sat Oct 09 00:26:25 2021
+
+Temperature :28 /Humidity :125/Pression:  199/Light:   Eteinte
